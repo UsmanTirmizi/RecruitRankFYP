@@ -1,6 +1,6 @@
 import express from "express";
-import {forgotPasswordController ,registerController,loginController,testController} from '../controller/authController.js'
-import { requireSignIn,isAdmin } from "../middleware/Auth.js";
+import {forgotPasswordController ,registerController,loginController,testController} from '../../controller/authController.js'
+import { requireSignIn,isAdmin } from "../../middleware/Auth.js";
 //import router from './authRoute';
 
 
