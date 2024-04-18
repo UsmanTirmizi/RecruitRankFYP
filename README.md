@@ -1,6 +1,6 @@
 ---
 
-# 🚀 Final Year Project: AI-Enhanced Hiring Platform 🌟
+# 🚀 Final Year Project: AI-Enhanced Hiring Platform: RecruitRanks 🌟
 
 Welcome to the repository for our groundbreaking Final Year Project (FYP)! Our industry-level web application is designed to revolutionize the hiring process by integrating advanced Artificial Intelligence technologies. Dive into the core functionalities that make our platform a must-have for modern recruiters and job seekers alike.
 
