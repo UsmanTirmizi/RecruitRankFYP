@@ -1,6 +1,6 @@
 # React + Vite
 
-To start up the dev server simply navigate to within this 'frontend' directory using your terminal and enter the command 'npm run dev'
+To start up the dev server simply navigate to within this 'frontend' directory using your terminal and enter the command ```npm run dev```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
